@@ -5,3 +5,5 @@ title = 'First Post'
 +++
 
 Hello this is my first post.
+
+Cool. Site is live.
